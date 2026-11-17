@@ -1,0 +1,16 @@
+data/
+checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build files (report/rapport.pdf is kept)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.xdv
+report/*.synctex.gz
+report/build.log
